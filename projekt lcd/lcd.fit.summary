@@ -1,0 +1,16 @@
+Fitter Status : Successful - Thu Aug 30 21:21:46 2018
+Quartus II 64-Bit Version : 10.1 Build 197 01/19/2011 SP 1 SJ Web Edition
+Revision Name : lcd
+Top-level Entity Name : lcd
+Family : Cyclone II
+Device : EP2C70F896C8
+Timing Models : Final
+Total logic elements : 1,430 / 68,416 ( 2 % )
+    Total combinational functions : 1,346 / 68,416 ( 2 % )
+    Dedicated logic registers : 702 / 68,416 ( 1 % )
+Total registers : 702
+Total pins : 16 / 622 ( 3 % )
+Total virtual pins : 0
+Total memory bits : 141,840 / 1,152,000 ( 12 % )
+Embedded Multiplier 9-bit elements : 0 / 300 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
